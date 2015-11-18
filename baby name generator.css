@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Alice);
+body, h2 {
+  text-align: center;
+  font-family: 'Alice';
+  vertical-align: middle;
+}
+
+body {
+  padding-top: 7%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
